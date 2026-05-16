@@ -20,11 +20,6 @@ Primarily, I've used C# & Python for my schoolwork but I've worked with HTML/CSS
 See my [nixvim](https://nix-community.github.io/nixvim/) managed configuration in my [Nix config](https://github.com/treytorrez/nix/tree/main/modules/home/nixvim.nix).
 
 ### Linux
-<table>
-<tr>
-<td><img src="https://brand.nixos.org/logos/nixos-logo-black-flat-black-regular-vertical-recommended.svg" width="30" alt="NixOS"/></td>
-<td>Currently daily driving NixOS synchronized across multiple devices. My <a href="https://github.com/treytorrez/nix">config lives here</a>.</td>
-</tr>
-</table>
+<img src="https://brand.nixos.org/logos/nixos-logo-black-flat-black-regular-vertical-recommended.svg" width="64" alt="NixOS"/>Currently daily driving NixOS synchronized across multiple devices. My [config lives here](https://github.com/treytorrez/nix).
 
 ![Viewership](https://komarev.com/ghpvc/?username=treytorrez)
