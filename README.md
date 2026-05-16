@@ -19,7 +19,7 @@ Primarily, I've used C# & Python for my schoolwork but I've worked with HTML/CSS
 ### (Neo)Vim
 See my [nixvim](https://nix-community.github.io/nixvim/) managed configuration in my [Nix config](https://github.com/treytorrez/nix/tree/main/modules/home/nixvim.nix).
 
-<h3> Linux </h3><img src="https://brand.nixos.org/logos/nixos-logo-black-flat-black-regular-vertical-recommended.svg" width="80" alt="NixOS"/>
+<div><h3> Linux <img  style="width: 50px; height: 16px; object-fit: cover; object-position: 0% 30%;" src="https://brand.nixos.org/logos/nixos-logo-black-flat-black-regular-vertical-recommended.svg" width="80" alt="NixOS"/></h3></div>
 Currently daily driving NixOS synchronized across multiple devices. My [config lives here](https://github.com/treytorrez/nix).
 
 ![Viewership](https://komarev.com/ghpvc/?username=treytorrez)
