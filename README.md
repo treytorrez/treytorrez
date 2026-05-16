@@ -17,7 +17,7 @@ Primarily, I've used C# & Python for my schoolwork but I've worked with HTML/CSS
 
 ### (Neo)Vim
 See my [nixvim](https://nix-community.github.io/nixvim/) managed configuration in my [Nix](https://github.com/treytorrez/nix/modules/home/nixvim.nix) configuration. 
-### Linux ![Nixos icon](https://nixos.org/favicon.ico)
+### Linux <img src"https://nixos.org/faviconico" alt="Nix OS Logo" width="15" height"15"> </img>
 Currently, I daily drive a NixOS configuration synchronized between multiple devices.
 My (messy) [config lives here.](https://github.com/treytorrez/nix/README.md)
 ![Viewership](https://komarev.com/ghpvc/?username=treytorrez)
