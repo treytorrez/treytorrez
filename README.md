@@ -3,7 +3,8 @@
 - B.S. in Computer Science at [BYU-I](https://www.byui.edu/)
 - Computer Scientist / Software Engineer
     - Passionate about FOSS & Linux 
-- Interned with [CRH](https://CRH.com) as an Application Development Intern (June '25 - Dec. '25)
+- Interned with [CRH](https://CRH.com) as an Application Development Intern (June '24 - Dec. '24)
+
 ## Experience
 Primarily, I've used C# & Python for my schoolwork but I've worked with HTML/CSS, SQL, Rust, Dart & TypeScript a handful of times. However, Go and Zig are next on the list.
 
@@ -16,8 +17,10 @@ Primarily, I've used C# & Python for my schoolwork but I've worked with HTML/CSS
 ## Personal Interests
 
 ### (Neo)Vim
-See my [nixvim](https://nix-community.github.io/nixvim/) managed configuration in my [Nix](https://github.com/treytorrez/nix/modules/home/nixvim.nix) configuration. 
-### Linux <img src"https://nixos.org/faviconico" alt="Nix OS Logo" width="15" height"15"> </img>
-Currently, I daily drive a NixOS configuration synchronized between multiple devices.
-My (messy) [config lives here.](https://github.com/treytorrez/nix/README.md)
+See my [nixvim](https://nix-community.github.io/nixvim/) managed configuration in my [Nix config](https://github.com/treytorrez/nix/tree/main/modules/home/nixvim.nix).
+
+### Linux
+<img src="https://brand.nixos.org/logos/nixos-logo-black-flat-black-regular-vertical-recommended.svg" width="20" alt="NixOS"/>
+Currently daily driving NixOS synchronized across multiple devices. My [config lives here](https://github.com/treytorrez/nix).
+
 ![Viewership](https://komarev.com/ghpvc/?username=treytorrez)
